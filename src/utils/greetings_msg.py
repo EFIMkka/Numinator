@@ -1,0 +1,2 @@
+def greet() -> str:
+    return 'Hi! I am Numinator and I can guess any number!\nWant to play?\n\nTo answer to Numinator use digits\n1: if he is right\n2: if your number is bigger\n3: if your number is less\n'
