@@ -18,3 +18,5 @@ def start():
 
 if __name__ == '__main__':
     start()
+
+    input('\nPress Enter to exit') # minimal handler to catch program from auto exiting. need to rewrite OR stay until tkinter
